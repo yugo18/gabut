@@ -9,7 +9,7 @@ function calculate() {
     
     // This will replace the result of any mathematical operation with "I love you"
     if (expression.match(/[0-9]+[+\-*/][0-9]+/)) {
-        display.value = 'HI WAKHYU NUR AFNI:)';
+        display.value = 'HI COKKK😭:)';
     } else {
         try {
             display.value = eval(expression);
